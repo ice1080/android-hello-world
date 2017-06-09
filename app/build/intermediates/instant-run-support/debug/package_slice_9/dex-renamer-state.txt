@@ -1,0 +1,4 @@
+#Thu Jun 08 21:59:35 MDT 2017
+base.0=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex
