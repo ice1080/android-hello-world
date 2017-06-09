@@ -7,8 +7,9 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 60,
-                    "endOffset": 111
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 128
                 },
                 "from": {
                     "file": "/Users/ihudson/Documents/Programming/Android/android-hello-world/app/src/main/res/values-v21/styles.xml",
@@ -16,8 +17,9 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 55,
-                        "endColumn": 67,
-                        "endOffset": 118
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 128
                     }
                 }
             }

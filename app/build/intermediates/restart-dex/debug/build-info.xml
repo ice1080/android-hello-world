@@ -3,25 +3,25 @@
     abi="x86"
     api-level="26"
     build-mode="COLD"
-    density="xhdpi"
+    density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1496983558864"
+    timestamp="1496984664859"
     token="9099629439405009433"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="74" />
+        duration="119" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="11" />
+        duration="49" />
     <task
         name="verifier"
-        duration="3" />
+        duration="7" />
 
     <artifact
         location="/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
@@ -32,8 +32,11 @@
 
     <build
         build-mode="FULL"
-        timestamp="1496983263750"
+        timestamp="1496984380908"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
         <artifact
             location="/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
@@ -62,15 +65,12 @@
             location="/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
             location="/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1496983558864"
+        timestamp="1496984664859"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/split-apk/debug/slices/slice_7.apk"

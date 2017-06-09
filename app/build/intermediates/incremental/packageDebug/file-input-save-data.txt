@@ -1,23 +1,26 @@
 #Internal package file, do not edit.
-#Thu Jun 08 22:46:00 MDT 2017
+#Thu Jun 08 23:04:26 MDT 2017
 2.base=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_22bb389a7da78ee0283b7622d882b500b67b00ed
 5.file=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_/res/mipmap-xhdpi-v4/ic_launcher.png
 5.set=ANDROID_RESOURCE
 3.base=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_
 6.file=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_/res/mipmap-mdpi-v4/ic_launcher.png
 2.set=DEX
+10.set=DEX
+10.file=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2862cfb20f67c7ad118cccf9ae3798ab8bacc844/classes.dex
 4.base=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_
-7.file=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_/res/mipmap-xxhdpi-v4/ic_launcher.png
+7.file=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_main.xml
 7.set=ANDROID_RESOURCE
-count=10
+count=11
 0.file=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_/res/mipmap-xxxhdpi-v4/ic_launcher.png
 5.base=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_
-8.file=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_/res/mipmap-hdpi-v4/ic_launcher.png
+8.file=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_/res/mipmap-xxhdpi-v4/ic_launcher.png
 4.set=ANDROID_RESOURCE
 6.base=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_
 1.file=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
-9.set=DEX
-9.file=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2862cfb20f67c7ad118cccf9ae3798ab8bacc844/classes.dex
+9.set=ANDROID_RESOURCE
+9.file=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_/res/mipmap-hdpi-v4/ic_launcher.png
+10.base=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2862cfb20f67c7ad118cccf9ae3798ab8bacc844
 1.set=ANDROID_RESOURCE
 7.base=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_
 2.file=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_22bb389a7da78ee0283b7622d882b500b67b00ed/classes.dex
@@ -27,7 +30,7 @@ count=10
 3.file=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_/resources.arsc
 3.set=ANDROID_RESOURCE
 1.base=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_
-9.base=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2862cfb20f67c7ad118cccf9ae3798ab8bacc844
+9.base=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_
 4.file=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
 8.set=ANDROID_RESOURCE
 0.set=ANDROID_RESOURCE

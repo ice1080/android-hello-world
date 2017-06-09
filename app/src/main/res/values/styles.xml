@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="AppTheme" parent="android:Theme"></style>
+    <style name="AppBaseTheme" parent="android:Theme">
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
 </resources>
