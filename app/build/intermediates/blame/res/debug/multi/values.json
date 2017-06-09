@@ -11,7 +11,14 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/Users/ihudson/Documents/Programming/Android/android-hello-world/app/src/main/res/values/dimens.xml"
+                    "file": "/Users/ihudson/Documents/Programming/Android/android-hello-world/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "/Users/ihudson/Documents/Programming/Android/android-hello-world/app/src/main/res/values/dimens.xml"
+                    "file": "/Users/ihudson/Documents/Programming/Android/android-hello-world/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 55,
+                        "endOffset": 164
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 213
                 },
                 "from": {
-                    "file": "/Users/ihudson/Documents/Programming/Android/android-hello-world/app/src/main/res/values/strings.xml"
+                    "file": "/Users/ihudson/Documents/Programming/Android/android-hello-world/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 2,
+                        "startOffset": 14,
+                        "endColumn": 46,
+                        "endOffset": 58
+                    }
                 }
             },
             {
@@ -66,7 +87,14 @@
                     "endOffset": 307
                 },
                 "from": {
-                    "file": "/Users/ihudson/Documents/Programming/Android/android-hello-world/app/src/main/res/values/strings.xml"
+                    "file": "/Users/ihudson/Documents/Programming/Android/android-hello-world/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 61,
+                        "endColumn": 50,
+                        "endOffset": 109
+                    }
                 }
             },
             {
@@ -78,7 +106,14 @@
                     "endOffset": 352
                 },
                 "from": {
-                    "file": "/Users/ihudson/Documents/Programming/Android/android-hello-world/app/src/main/res/values/strings.xml"
+                    "file": "/Users/ihudson/Documents/Programming/Android/android-hello-world/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 44,
+                        "endOffset": 193
+                    }
                 }
             },
             {
@@ -91,7 +126,15 @@
                     "endOffset": 420
                 },
                 "from": {
-                    "file": "/Users/ihudson/Documents/Programming/Android/android-hello-world/app/src/main/res/values/styles.xml"
+                    "file": "/Users/ihudson/Documents/Programming/Android/android-hello-world/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 3,
+                        "endColumn": 12,
+                        "endOffset": 118
+                    }
                 }
             },
             {
@@ -104,7 +147,15 @@
                     "endOffset": 483
                 },
                 "from": {
-                    "file": "/Users/ihudson/Documents/Programming/Android/android-hello-world/app/src/main/res/values/styles.xml"
+                    "file": "/Users/ihudson/Documents/Programming/Android/android-hello-world/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 181
+                    }
                 }
             }
         ]

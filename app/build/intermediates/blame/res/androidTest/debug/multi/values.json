@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/ihudson/.android/build-cache/5f08696646cd942955ea215b00c2a5e1e1871956/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 45,
+                        "endOffset": 328
+                    }
+                }
+            }
+        ]
+    }
+]
