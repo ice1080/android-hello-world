@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Jun 08 22:15:52 MDT 2017
+#Thu Jun 08 22:46:00 MDT 2017
 2.base=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_22bb389a7da78ee0283b7622d882b500b67b00ed
 5.file=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_/res/mipmap-xhdpi-v4/ic_launcher.png
 5.set=ANDROID_RESOURCE

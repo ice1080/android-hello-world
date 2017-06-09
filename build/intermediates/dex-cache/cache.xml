@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="4b4ff264ff35b2d6df5e07e43c922c7153d157b8">
+        sha1="25cdc816c7dc155129b155017fbefb913d0504db">
         <dex dex="/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2862cfb20f67c7ad118cccf9ae3798ab8bacc844/classes.dex" />
     </item>
     <item

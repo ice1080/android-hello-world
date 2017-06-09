@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Jun 08 22:15:48 MDT 2017
+#Thu Jun 08 22:45:59 MDT 2017
 2.base=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_
 5.file=/Users/ihudson/Documents/Programming/Android/android-hello-world/app/build/intermediates/res/resources-debug.ap_/res/mipmap-mdpi-v4/ic_launcher.png
 5.set=ANDROID_RESOURCE
